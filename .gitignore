@@ -1,0 +1,36 @@
+# macOS system files
+.DS_Store
+
+# JetBrains IDEs (PhpStorm, IntelliJ, etc.)
+.idea/
+
+# Composer dependencies
+/vendor/
+composer.lock
+
+# Environment configuration
+.env
+.env.local
+
+# Logs
+*.log
+
+# Cache and session files
+*.cache
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# PHP error logs
+php_errorlog
+
+# Node (if ever used)
+node_modules/
+
+# Python (if scripts are included)
+__pycache__/
+*.py[cod]
+
+# VSCode
+.vscode/
